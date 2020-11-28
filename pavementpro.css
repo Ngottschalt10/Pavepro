@@ -1,0 +1,177 @@
+body {
+    margin: 0 auto;
+}
+.top {
+    background-color: orangered;
+    
+    color: white;
+    
+    padding-bottom: 20px;
+    height: 35px;
+    display: inline-flex;
+    width: 100%;
+    border-bottom: 20px solid orangered;
+    padding-left: 20px;
+    font-size: 20px;
+}
+
+#number {
+    font-size: 20px;
+    
+
+}
+.flex-container {
+    position: fixed;
+    z-index: 10;
+}
+
+.title {
+    background-color: black;
+    color: orangered;
+    display: inline-flex;
+    height: 160px;
+    width: 100%;
+    border-bottom: 10px solid black;
+}
+
+.top img {
+    height: 20px;
+    padding-top: 30px;
+    padding-right: 10px;
+}
+.contacts {
+    justify-content: flex-end;
+    padding-left: 980px;
+
+}
+.title img {
+    width: 250px;
+}
+h5 {
+    font-weight: 200;
+}
+span {
+    padding-right: 50px;
+    padding-top: 120px;
+    font-size: 22px;
+    color: white;
+ 
+}
+nav {
+    width: 100%;
+    display: inline-flex;
+    justify-content: flex-end;
+    
+    
+}
+
+.main {
+    padding-top: 280px;
+    background-image: url(https://apis.mail.yahoo.com/ws/v3/mailboxes/@.id==VjN-6yvorXt_zJfZFw_iCX6KmQWIfVUxs72iGe1F4f6CZf7E3dWXhKcE30kBedsAtO-J7d-ZMFxbpn3gevoCn6U-RA/messages/@.id==AMuK3ax2rwekX6mtfACn-GqBPXY/content/parts/@.id==2/thumbnail?appId=YMailNorrinLaunch); 
+    width: 100%;
+    height: 400px;
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    display: flex;
+    justify-content: center;
+   
+
+}
+.mission {
+    width: 800px;
+    text-align: center;
+    color: white;
+  
+}
+h2 {
+    font-size: 40px;
+    
+}
+h6 {
+    font-size: 20px;
+    font-weight: 200;
+}
+h4 {
+    border: 3px solid white;
+    width: 250px;
+    margin-left: 300px;
+    height: 40px;
+    font-size: 25px;
+
+}
+
+.boxes {
+    display: inline-flex;
+    padding-bottom: 120px;
+    color: black;
+    text-align: center;
+    padding-top: 100px;
+    background-image: url(https://thumbs.dreamstime.com/b/black-small-road-stone-background-dark-gravel-pebbles-stone-texture-seamless-texture-granite-marble-black-small-road-stone-174568461.jpg);
+}
+p {
+    background-color: orangered;
+    height: 40px;
+    border: 2px solid black;
+    padding-top: 10px;
+    color: white;
+}
+#adjust {
+
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+div .first {
+    border: 1px solid black;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.first {
+    width: 250px;
+}
+.box1  {
+    
+    background-color: white;
+    margin-left: 40px;
+    margin-right: 10px;
+    height: 460px;
+}
+h5 {
+   padding-top: 20px;
+   font-weight: bold;
+   font-size: 24px;
+}
+.second {
+    width: 250px;
+}
+.box2 {
+ 
+    background-color: white;
+    margin-left: 30px;
+    margin-right: 10px;
+    height: 460px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.third {
+    width: 250px;
+}
+.box3 {
+    background-color: white;
+    margin-left: 30px;
+    margin-right: 10px;
+    height: 460px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.fourth {
+    width: 250px;
+}
+.box4 {
+    background-color: white;
+    margin-left: 30px;
+    margin-right: 50px;
+    height: 460px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
